@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7d2f8db9-1657-4416-824d-04d1ee1fc15f/resourceGroups/SocialMediaVM_group_07010022/providers/Microsoft.Web/sites/NextjsFrontend",
+    "appService.deploySubpath": "."
+}
